@@ -1,0 +1,4 @@
+web\fallbackProvider\ServiceFallbackProvider$1.class
+web\ZuulApplication.class
+web\filter\serviceFilter.class
+web\fallbackProvider\ServiceFallbackProvider.class
